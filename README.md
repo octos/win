@@ -7,7 +7,7 @@ mov,mp3 | mpv ([64](https://mpv.srsfckn.biz/mpv-x86_64-20160118.7z)\|[32](https:
 youtube | [youtube-dl](https://yt-dl.org/latest/youtube-dl.exe)
 downloader | [aria2c](https://github.com/tatsuhiro-t/aria2/releases/download/release-1.20.0/aria2-1.20.0-win-32bit-build1.zip)
 txt | [notepad++](https://notepad-plus-plus.org/repository/6.x/6.9/npp.6.9.bin.zip)
-pdf | [sumatraPDF](https://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-3.1.1.zip)
+pdf | [SumatraPDF](https://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-3.1.1.zip)
 disk usage | [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/files/spacesniffer_1_2_0_2.zip)
 defragment | [Defraggler](http://download.piriform.com/dfsetup220.exe)
 specs | [Speccy](http://download.piriform.com/spsetup129.exe)
