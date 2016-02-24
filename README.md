@@ -9,9 +9,9 @@ downloader | [aria2c](https://github.com/tatsuhiro-t/aria2/releases/download/rel
 txt | [notepad++](https://notepad-plus-plus.org/repository/6.x/6.9/npp.6.9.bin.zip)
 pdf | [sumatraPDF](https://kjkpub.s3.amazonaws.com/sumatrapdf/rel/SumatraPDF-3.1.1.zip)
 disk usage | [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/files/spacesniffer_1_2_0_2.zip)
-defragment | [Defraggler](https://www.piriform.com/defraggler/download/portable/downloadfile)
-specs | [Speccy](https://www.piriform.com/speccy/download/portable/downloadfile)
-file recovery | [Recuva](https://www.piriform.com/recuva/download/portable/downloadfile)
+defragment | [Defraggler](http://download.piriform.com/dfsetup220.exe)
+specs | [Speccy](http://download.piriform.com/spsetup129.exe)
+file recovery | [Recuva](http://download.piriform.com/rcsetup152.exe)
 font | [PragmataPro](https://raw.githubusercontent.com/bojank/arch/0118547dce220d8931f79f41b9e5b84570be60ab/2013/prag/PragmataPro.zip)
 capslock escape | [uncap](https://github.com/susam/uncap/releases/download/0.2.2/uncap.exe)
 
