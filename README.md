@@ -12,6 +12,7 @@ disk usage | [SpaceSniffer](http://www.uderzo.it/main_products/space_sniffer/fil
 defragment | [Defraggler](https://www.piriform.com/defraggler/download/portable/downloadfile)
 specs | [Speccy](https://www.piriform.com/speccy/download/portable/downloadfile)
 file recovery | [Recuva](https://www.piriform.com/recuva/download/portable/downloadfile)
+font | [PragmataPro](https://raw.githubusercontent.com/bojank/arch/0118547dce220d8931f79f41b9e5b84570be60ab/2013/prag/PragmataPro.zip)
 capslock escape | [uncap](https://github.com/susam/uncap/releases/download/0.2.2/uncap.exe)
 
 #Notes
