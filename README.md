@@ -15,5 +15,8 @@ file recovery | [Recuva](http://download.piriform.com/rcsetup152.exe)
 font | [PragmataPro](https://raw.githubusercontent.com/bojank/arch/0118547dce220d8931f79f41b9e5b84570be60ab/2013/prag/PragmataPro.zip)
 capslock escape | [uncap](https://github.com/susam/uncap/releases/download/0.2.2/uncap.exe)
 
+## scripts
+- [mute](https://github.com/octos/win/releases/download/1602/mute.vbs)
+
 #Notes
 - Place youtube-dl.exe in the same directory as mpv to play content from various media streaming sites.
